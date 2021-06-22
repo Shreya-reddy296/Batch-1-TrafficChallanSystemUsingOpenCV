@@ -4,7 +4,7 @@ TRAFFIC CHALLAN SYSTEM USING OPENCV
 SOFTWARES REQUIREMENTS- 
 Operating System : Windows 64 bit 
 Pre-requisite Software : Python 3.8.0
-IDE : Visual Studio code/IDLE/PYCHARM
+IDE : IDLE
 Python Modules : Pandas,Tkinter,Tesseract
 
 HOW TO SETUP EXECUTION-
@@ -21,7 +21,6 @@ Double-click the icon labeling the File python-3.8.0.exe. 2.A Python 3.8.0 (64-b
 Highlight the Install Now (or Upgrade Now) message, and then click it.
 A new Python 3.8.0 (64-bit) Setup pop-up window will appear with a Setup Progress message and a progress bar. During installation, it will show the various components it is installing and move the progress bar towards completion.
 Click the Close button. Python should now be installed.
-IDE Required- IDLE/Visual Studio/PyCharm
 
 DATABASE- A database is required with license plate registered mail-id's.
 
